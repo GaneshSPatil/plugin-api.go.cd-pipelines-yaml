@@ -8,17 +8,15 @@
   "materials": [
     {
       "type": "git",
-      "attributes": {
-        "url": "https://git.gocd.io/git/gocd/plugin-api.go.cd",
-        "destination": null,
-        "filter": null,
-        "invert_filter": false,
-        "name": null,
-        "auto_update": true,
-        "branch": "release-17.12.0",
-        "submodule_folder": null,
-        "shallow_clone": true
-      }
+      "url": "https://git.gocd.io/git/gocd/plugin-api.go.cd",
+      "destination": null,
+      "filter": null,
+      "invert_filter": false,
+      "name": null,
+      "auto_update": true,
+      "branch": "release-17.12.0",
+      "submodule_folder": null,
+      "shallow_clone": true
     }
   ]
 }
